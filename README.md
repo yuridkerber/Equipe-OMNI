@@ -150,14 +150,12 @@ O protótipo das interfaces está sendo desenvolvido no **Figma**.
 
 ## 👥 Equipe
 
-| Integrante            | GitHub                                                                                                                              |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Yuri Duarte**       | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/yuridkerber)    |
-| **Karen Marroco**     | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/KarenMarroco)   |
-| **Miguel Giovannini** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Giovannini150)  |
-| **Cleberson Felex**   | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ClebersonFelex) |
-| **Matheus Basso**     | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/MTBasso)        |
-
+| Integrante | GitHub | LinkedIn |
+| :--- | :---: | :---: |
+| **Yuri Duarte** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yuridkerber) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-kerber-a1825b3b0/) |
+| **Karen Marroco** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KarenMarroco) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/karen-marroco-4b6016180) |
+| **Miguel Giovannini** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Giovannini150) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ricardo-giovannini-40a6a3361/) |
+| **Matheus Basso** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MTBasso) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#) |
 ---
 
 ## 📌 Status
